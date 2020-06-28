@@ -1,0 +1,33 @@
+Type,Company name,Dining Rating,Dining Review,Delivery Rating,Delivery Review,Cuisines,Zone,Address,Cost,Timing,Call
+empty,empty,empty,empty,empty,empty,"Burger, Fast Food, Beverages",empty,"b', , , , , , '",Rs. 500,10am – 10pm (Mon-Sun),8376902651
+Dessert Parlor,Sethi Fruit Juice & Ice Cream,empty,empty,empty,empty,"Ice Cream, Beverages",Tilak Nagar,"b'11/35 B, Tilak Nagar, New Delhi'",Rs. 200,10am – 12midnight (Mon-Sun),"9136111346,9810727416"
+Casual Dining,Sethi Restaurant,4.0,(690),4.0,(13.6K),"North Indian, Chinese",Tilak Nagar,"b'A 64, Punjabi Market,  Sham Nagar, Tilak Nagar, New Delhi'","Rs. 1,000","12noon – 4pm, 7pm – 11pm (Mon-Sun)","01125989591,01125985588"
+empty,empty,empty,empty,empty,empty,empty,empty,b'empty',empty,empty,empty
+"Quick Bites, ,, Sweet Shop",Haldiram's,3.9,(466),4.1,(706),"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts, Bakery",Tilak Nagar,"b'4-B/16, Najafgarh Road, Tilak Nagar, New Delhi'",Rs. 600,10am – 10pm (Mon-Sun),01147685701
+Casual Dining,Disco Deewane,empty,empty,empty,empty,"North Indian, Chinese, Momos, Rolls",Tilak Nagar,"b'11/122, First Floor, Double Story, Near Vishal Mega Mart, Tilak Nagar, New Delhi'",Rs. 700,12noon – 12midnight (Mon-Sun),9560135236
+Dessert Parlor,The Ice Cream Factory,empty,empty,empty,empty,"Ice Cream, Beverages",Tilak Nagar,"b'WZ-44, Uggarsain Market, Ashok Nagar, Tilak Nagar, New Delhi'",Rs. 150,12noon – 12midnight (Mon-Sun),9810688798
+Quick Bites,Burger King,3.7,(126),4.0,"(1,886)","Burger, American",Tilak Nagar,"b'31/4 & 31/4A, Ground And First Floor, Ashok Nagar Tehar, Opposite Tilak Nagar Metro Station Gate 3, Tilak Nagar, New Delhi'",Rs. 500,11am – 11pm (Mon-Sun),01141501275
+Dessert Parlor,Bigscoop,empty,empty,empty,empty,"Ice Cream, Beverages",Tilak Nagar,"b'RZ 46 A, Ravi Nagar Extension, Near Park Hospital, Tilak Nagar, New Delhi'",Rs. 400,12noon – 4am (Mon-Sun),8700200639
+empty,empty,empty,empty,empty,empty,empty,empty,b'empty',empty,empty,empty
+"Sweet Shop, ,, Casual Dining",Singla's,4.0,"(1,457)",3.9,(26.8K),"North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai",Tilak Nagar,"b'2/13, Mall Road, Near Tilak Nagar Metro Station, Tilak Nagar, New Delhi'",Rs. 700,8am – 2:30am (Mon-Sun),7290063525
+"3.9, (797 Reviews)",Roti N Boti,empty,empty,empty,empty,"North Indian, Chinese, Fast Food",Tilak Nagar,"b'15/16, Mangal Bazar, Tilak Nagar, New Delhi'",Rs. 400,5pm – 10:30pm (Mon-Sun),"9811575980,9871155980"
+"Sweet Shop, ,, Quick Bites",Standard Burfee,3.7,(149),4.0,"(1,441)","Mithai, South Indian, North Indian, Street Food, Chinese, Fast Food",Tilak Nagar,"b'D 117, Fateh Nagar, Tilak Nagar, New Delhi'",Rs. 600,8am – 12midnight (Mon-Sun),"9821041757,7982447123"
+Quick Bites,Muradabadi Shahi Biryani & Chicken Corner,3.8,(110),3.9,"(2,875)","North Indian, Mughlai",Tilak Nagar,"b'27/3, Double Storey, Ashok Nagar, Tilak Nagar, New Delhi'",Rs. 500,11am – 12midnight (Mon-Sun),"9643992477,9873872419"
+Sweet Shop,Sharma Jalebi Bhandar,empty,empty,empty,empty,Mithai,Tilak Nagar,"b'WZ 44 P, Chaukhandi Village, Vishnu Garden, Near Hanuman Mandir, Tilak Nagar, New Delhi'",Rs. 200,4pm – 2am (Mon-Sun),9990196230
+Quick Bites,Veer Ji Malai Chaap Wale,empty,empty,empty,empty,"North Indian, Rolls",Tilak Nagar,"b'35/16, Ashok Nagar, Tilak Nagar, New Delhi'",Rs. 400,10am – 3am (Mon-Sun),9654257119
+empty,Icecream By Sethi,empty,empty,empty,empty,"Ice Cream, Beverages",Tilak Nagar,b'Delivery Only',Rs. 200,12noon – 4am (Mon-Sun),"7292060404,8700200639"
+"Bakery, ,, Quick Bites",Brothers' Bakery,3.9,(532),3.9,"(8,290)","Bakery, Desserts, Fast Food, Chinese, Beverages",Tilak Nagar,"b'A-31, Khyala Road, Vishnu Garden, Tilak Nagar, New Delhi'",Rs. 400,11am – 10pm (Mon-Sun),8377915960
+empty,Tava Burger,empty,empty,empty,empty,"Burger, Sandwich, Momos, Fast Food",Tilak Nagar,b'Delivery Only',Rs. 300,11am – 12midnight (Mon-Sun),"9205052949,9717812949"
+empty,empty,empty,empty,empty,empty,empty,empty,b'empty',empty,empty,empty
+Casual Dining,Nukkad - The Lounge,4.2,(374),3.4,(179),"North Indian, Mughlai, Chinese, Rolls, Fast Food, Beverages",Tilak Nagar,"b'S1/196, Old Mahavir Nagar, Kabuli Chowk, Tilak Nagar, New Delhi'",Rs. 700,"11am – 11pm (Mon-Thu),11am – 3am (Fri-Sun)","9205470538,9205470539"
+empty,Zaykebaaz,empty,empty,empty,empty,"North Indian, Burger, Fast Food, Beverages",Tilak Nagar,b'Delivery Only',Rs. 200,11am – 12midnight (Mon-Sun),9717812949
+Quick Bites,Ganpat Chicken & Fish Corner,empty,empty,empty,empty,Maharashtrian,Tilak Nagar,"b'1/28, Citizen Complex, Mall Road, Tilak Nagar, New Delhi'",Rs. 300,5:30pm – 11pm (Mon-Sun),"9250147622,9818152705"
+Quick Bites,Punjabi Virsa,3.7,(150),4.1,"(2,786)","North Indian, Chinese, Mughlai",Tilak Nagar,"b'A-10, Shyam Nagar, Khyala Road, Vishnu Garden, Tilak Nagar, New Delhi'",Rs. 700,12noon – 12midnight (Mon-Sun),001161495290
+"Beverage Shop, ,, Dessert Parlor",Radha Swami Cool Hut,empty,empty,empty,empty,"Beverages, Ice Cream, Fast Food",Tilak Nagar,"b'11/45 B, Gurudwara Road, Block 11, Tilak Nagar, New Delhi'",Rs. 300,11am – 11:30pm (Mon-Sun),"9210195630,9213956723"
+empty,empty,empty,empty,empty,empty,empty,empty,b'empty',empty,empty,empty
+empty,Prem Ji Di Hatti,empty,empty,empty,empty,North Indian,Tilak Nagar,"b'Near Khyala Road, Vishnu Garden, Tilak Nagar, New Delhi'",Rs. 200,8am – 4pm (Mon-Sun),9212902585
+"2.7, (2,010 Reviews)",Rolls Tiger,empty,empty,empty,empty,"Rolls, Fast Food",Tilak Nagar,"b'J-6, 2nd Floor, Chaukhandi Road, Mukhram Garden, Near Raj Cinema, Tilak Nagar, New Delhi'",Rs. 300,9am – 4am (Mon-Sun),8287567972
+"3.2, (4,637 Reviews)",Mama Bhanja Corner,empty,empty,empty,empty,North Indian,Tilak Nagar,"b'Opposite Vijay Corner, Ashok Nagar, Near Metro Station, Tilak Nagar, New Delhi'",Rs. 450,11am – 11pm (Mon-Sun),01130806705
+"3.4, (8,387 Reviews)",Tiffin & Co,empty,empty,empty,empty,"North Indian, Chinese, Biryani, Momos, Fast Food, Beverages",Tilak Nagar,b'Delivery Only',Rs. 400,7pm – 4am (Mon-Sun),"8448499800,8448499801"
+Quick Bites,The Taste Maker,empty,empty,empty,empty,"North Indian, Mughlai, Chinese, Pizza, Burger, Sandwich, Beverages",Tilak Nagar,"b'Shop 2, S 196, Old Mahavir Nagar, Tilak Nagar, New Delhi'",Rs. 800,"11:30am – 11:30pm (Mon-Thu),11:30am – 3am (Fri-Sun)","8527566618,7889251385"
+"4.0, (280 Reviews)",Fitnest Food,empty,empty,empty,empty,"Chinese, Fast Food, Healthy Food",Tilak Nagar,"b'16/7, Ground Floor, Ashok Nagar, Tilak Nagar, New Delhi'",Rs. 500,"12midnight – 4am, 7am – 12midnight (Mon-Sun)",9999768990
